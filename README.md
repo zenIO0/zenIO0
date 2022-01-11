@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zenIO0 / Telegram: @zen_X1
+- 👋 Hi, I’m @zenIO0 / Telegram: @zenIO0
 
 <!---
 zenIO0/zenIO0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
